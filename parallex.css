@@ -1,0 +1,32 @@
+.first__image {
+  background-image: url("https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg");
+}
+
+.second__image {
+  opacity: 0.7;
+  background-image: url("	https://stimg2.cardekho.com/images/carNewsEditorImages/816x544/20210615_102842/27296/lexus0.jpg");
+}
+.second__image {
+  position: relative;
+  background-size: cover;
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 400px;
+  width: 100%;
+}
+
+.first__image {
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-attachment: scroll;
+  height: 400px;
+  width: 100%;
+}
+.text {
+  position: absolute;
+  background-attachment: fixed;
+  font-size: 30px;
+}
